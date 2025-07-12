@@ -6,8 +6,8 @@
 
 ## ✨ Features
 
-- Dynamic UI response to user input patterns  
-- Gravity
+- Dynamic UI response to user input patterns
+- Drawing
 
 ---
 
