@@ -1,6 +1,6 @@
-# 🕹️ Easy Jump King-like game 
+# 🕹️ Easy Tic Tac Toe
 
-🎥 **Demo Video**: [https://youtu.be/6dHHgPSvI6w](https://youtu.be/6dHHgPSvI6w)
+🎥 **Demo Video**: [https://youtu.be/TvRyVNLPCOs)
 ![UI Preview](showcase.png)
 ---
 
